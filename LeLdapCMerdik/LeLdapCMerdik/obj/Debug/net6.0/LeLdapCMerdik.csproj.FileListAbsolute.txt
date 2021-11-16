@@ -1,0 +1,15 @@
+C:\Users\gmillon\source\repos\LeLdapCMerdik\LeLdapCMerdik\bin\Debug\net6.0\LeLdapCMerdik.exe
+C:\Users\gmillon\source\repos\LeLdapCMerdik\LeLdapCMerdik\bin\Debug\net6.0\LeLdapCMerdik.deps.json
+C:\Users\gmillon\source\repos\LeLdapCMerdik\LeLdapCMerdik\bin\Debug\net6.0\LeLdapCMerdik.runtimeconfig.json
+C:\Users\gmillon\source\repos\LeLdapCMerdik\LeLdapCMerdik\bin\Debug\net6.0\LeLdapCMerdik.dll
+C:\Users\gmillon\source\repos\LeLdapCMerdik\LeLdapCMerdik\bin\Debug\net6.0\ref\LeLdapCMerdik.dll
+C:\Users\gmillon\source\repos\LeLdapCMerdik\LeLdapCMerdik\bin\Debug\net6.0\LeLdapCMerdik.pdb
+C:\Users\gmillon\source\repos\LeLdapCMerdik\LeLdapCMerdik\obj\Debug\net6.0\LeLdapCMerdik.csproj.AssemblyReference.cache
+C:\Users\gmillon\source\repos\LeLdapCMerdik\LeLdapCMerdik\obj\Debug\net6.0\LeLdapCMerdik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gmillon\source\repos\LeLdapCMerdik\LeLdapCMerdik\obj\Debug\net6.0\LeLdapCMerdik.AssemblyInfoInputs.cache
+C:\Users\gmillon\source\repos\LeLdapCMerdik\LeLdapCMerdik\obj\Debug\net6.0\LeLdapCMerdik.AssemblyInfo.cs
+C:\Users\gmillon\source\repos\LeLdapCMerdik\LeLdapCMerdik\obj\Debug\net6.0\LeLdapCMerdik.csproj.CoreCompileInputs.cache
+C:\Users\gmillon\source\repos\LeLdapCMerdik\LeLdapCMerdik\obj\Debug\net6.0\LeLdapCMerdik.dll
+C:\Users\gmillon\source\repos\LeLdapCMerdik\LeLdapCMerdik\obj\Debug\net6.0\ref\LeLdapCMerdik.dll
+C:\Users\gmillon\source\repos\LeLdapCMerdik\LeLdapCMerdik\obj\Debug\net6.0\LeLdapCMerdik.pdb
+C:\Users\gmillon\source\repos\LeLdapCMerdik\LeLdapCMerdik\obj\Debug\net6.0\LeLdapCMerdik.genruntimeconfig.cache
